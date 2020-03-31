@@ -1,0 +1,10 @@
+C:\Users\urvil\source\repos\Dice\Dice\bin\Debug\Dice.exe.config
+C:\Users\urvil\source\repos\Dice\Dice\bin\Debug\Dice.exe
+C:\Users\urvil\source\repos\Dice\Dice\bin\Debug\Dice.pdb
+C:\Users\urvil\source\repos\Dice\Dice\obj\Debug\Dice.csprojAssemblyReference.cache
+C:\Users\urvil\source\repos\Dice\Dice\obj\Debug\Dice.Form1.resources
+C:\Users\urvil\source\repos\Dice\Dice\obj\Debug\Dice.Properties.Resources.resources
+C:\Users\urvil\source\repos\Dice\Dice\obj\Debug\Dice.csproj.GenerateResource.cache
+C:\Users\urvil\source\repos\Dice\Dice\obj\Debug\Dice.csproj.CoreCompileInputs.cache
+C:\Users\urvil\source\repos\Dice\Dice\obj\Debug\Dice.exe
+C:\Users\urvil\source\repos\Dice\Dice\obj\Debug\Dice.pdb
