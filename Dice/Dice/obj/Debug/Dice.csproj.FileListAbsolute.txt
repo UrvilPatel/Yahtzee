@@ -1,10 +1,93 @@
-C:\Users\urvil\source\repos\Dice\Dice\bin\Debug\Dice.exe.config
-C:\Users\urvil\source\repos\Dice\Dice\bin\Debug\Dice.exe
-C:\Users\urvil\source\repos\Dice\Dice\bin\Debug\Dice.pdb
-C:\Users\urvil\source\repos\Dice\Dice\obj\Debug\Dice.csprojAssemblyReference.cache
-C:\Users\urvil\source\repos\Dice\Dice\obj\Debug\Dice.Form1.resources
-C:\Users\urvil\source\repos\Dice\Dice\obj\Debug\Dice.Properties.Resources.resources
-C:\Users\urvil\source\repos\Dice\Dice\obj\Debug\Dice.csproj.GenerateResource.cache
-C:\Users\urvil\source\repos\Dice\Dice\obj\Debug\Dice.csproj.CoreCompileInputs.cache
-C:\Users\urvil\source\repos\Dice\Dice\obj\Debug\Dice.exe
-C:\Users\urvil\source\repos\Dice\Dice\obj\Debug\Dice.pdb
+C:\Users\Administrator\Dropbox\school\sdd\c#\Dice\Dice\Dice\bin\Debug\Dice.exe.config
+C:\Users\Administrator\Dropbox\school\sdd\c#\Dice\Dice\Dice\bin\Debug\Dice.exe
+C:\Users\Administrator\Dropbox\school\sdd\c#\Dice\Dice\Dice\bin\Debug\Dice.pdb
+C:\Users\Administrator\Dropbox\school\sdd\c#\Dice\Dice\Dice\obj\Debug\Dice.Form1.resources
+C:\Users\Administrator\Dropbox\school\sdd\c#\Dice\Dice\Dice\obj\Debug\Dice.Properties.Resources.resources
+C:\Users\Administrator\Dropbox\school\sdd\c#\Dice\Dice\Dice\obj\Debug\Dice.csproj.GenerateResource.Cache
+C:\Users\Administrator\Dropbox\school\sdd\c#\Dice\Dice\Dice\obj\Debug\Dice.exe
+C:\Users\Administrator\Dropbox\school\sdd\c#\Dice\Dice\Dice\obj\Debug\Dice.pdb
+C:\Users\mtopp\Dropbox\school\sdd\c#\Dice\Dice\bin\Debug\Dice.exe.config
+C:\Users\mtopp\Dropbox\school\sdd\c#\Dice\Dice\obj\Debug\Dice.exe
+C:\Users\mtopp\Dropbox\school\sdd\c#\Dice\Dice\obj\Debug\Dice.pdb
+C:\Users\mtopp\Dropbox\school\sdd\c#\Dice\Dice\bin\Debug\Dice.exe
+C:\Users\mtopp\Dropbox\school\sdd\c#\Dice\Dice\bin\Debug\Dice.pdb
+C:\Users\mtopp\Dropbox\school\sdd\c#\Dice\Dice\obj\Debug\Dice.csprojResolveAssemblyReference.cache
+C:\Users\mtopp\Dropbox\school\sdd\c#\Dice\Dice\obj\Debug\Dice.Form1.resources
+C:\Users\mtopp\Dropbox\school\sdd\c#\Dice\Dice\obj\Debug\Dice.Properties.Resources.resources
+C:\Users\mtopp\Dropbox\school\sdd\c#\Dice\Dice\obj\Debug\Dice.csproj.GenerateResource.Cache
+C:\Users\Administrator\Dropbox\school\sdd\c#\Dice\Dice\bin\Debug\Dice.exe.config
+C:\Users\Administrator\Dropbox\school\sdd\c#\Dice\Dice\obj\Debug\Dice.exe
+C:\Users\Administrator\Dropbox\school\sdd\c#\Dice\Dice\obj\Debug\Dice.pdb
+C:\Users\Administrator\Dropbox\school\sdd\c#\Dice\Dice\bin\Debug\Dice.exe
+C:\Users\Administrator\Dropbox\school\sdd\c#\Dice\Dice\bin\Debug\Dice.pdb
+C:\Users\Administrator\Dropbox\school\sdd\c#\Dice\Dice\obj\Debug\Dice.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Dropbox\school\sdd\c#\Dice\Dice\obj\Debug\Dice.Form1.resources
+C:\Users\Administrator\Dropbox\school\sdd\c#\Dice\Dice\obj\Debug\Dice.Properties.Resources.resources
+C:\Users\Administrator\Dropbox\school\sdd\c#\Dice\Dice\obj\Debug\Dice.csproj.GenerateResource.Cache
+C:\Users\toppy\Dropbox\school\sdd\c#\Dice\Dice\bin\Debug\Dice.exe.config
+C:\Users\toppy\Dropbox\school\sdd\c#\Dice\Dice\obj\Debug\Dice.exe
+C:\Users\toppy\Dropbox\school\sdd\c#\Dice\Dice\obj\Debug\Dice.pdb
+C:\Users\toppy\Dropbox\school\sdd\c#\Dice\Dice\bin\Debug\Dice.exe
+C:\Users\toppy\Dropbox\school\sdd\c#\Dice\Dice\bin\Debug\Dice.pdb
+C:\Users\toppy\Dropbox\school\sdd\c#\Dice\Dice\obj\Debug\Dice.csprojResolveAssemblyReference.cache
+C:\Users\toppy\Dropbox\school\sdd\c#\Dice\Dice\obj\Debug\Dice.Form1.resources
+C:\Users\toppy\Dropbox\school\sdd\c#\Dice\Dice\obj\Debug\Dice.Properties.Resources.resources
+C:\Users\toppy\Dropbox\school\sdd\c#\Dice\Dice\obj\Debug\Dice.csproj.GenerateResource.Cache
+E:\Dice\Dice\bin\Debug\Dice.exe.config
+E:\Dice\Dice\obj\Debug\Dice.exe
+E:\Dice\Dice\obj\Debug\Dice.pdb
+E:\Dice\Dice\bin\Debug\Dice.exe
+E:\Dice\Dice\bin\Debug\Dice.pdb
+E:\Dice\Dice\obj\Debug\Dice.csprojResolveAssemblyReference.cache
+E:\Dice\Dice\obj\Debug\Dice.Form1.resources
+E:\Dice\Dice\obj\Debug\Dice.Properties.Resources.resources
+E:\Dice\Dice\obj\Debug\Dice.csproj.GenerateResource.Cache
+G:\sdd\Dice\Dice\bin\Debug\Dice.exe.config
+G:\sdd\Dice\Dice\bin\Debug\Dice.exe
+G:\sdd\Dice\Dice\bin\Debug\Dice.pdb
+G:\sdd\Dice\Dice\obj\Debug\Dice.csprojResolveAssemblyReference.cache
+G:\sdd\Dice\Dice\obj\Debug\Dice.Form1.resources
+G:\sdd\Dice\Dice\obj\Debug\Dice.Properties.Resources.resources
+G:\sdd\Dice\Dice\obj\Debug\Dice.csproj.GenerateResource.Cache
+G:\sdd\Dice\Dice\obj\Debug\Dice.csproj.CoreCompileInputs.cache
+G:\sdd\Dice\Dice\obj\Debug\Dice.exe
+G:\sdd\Dice\Dice\obj\Debug\Dice.pdb
+D:\sdd\Dice\Dice\bin\Debug\Dice.exe.config
+D:\sdd\Dice\Dice\bin\Debug\Dice.exe
+D:\sdd\Dice\Dice\bin\Debug\Dice.pdb
+D:\sdd\Dice\Dice\obj\Debug\Dice.Form1.resources
+D:\sdd\Dice\Dice\obj\Debug\Dice.Properties.Resources.resources
+D:\sdd\Dice\Dice\obj\Debug\Dice.csproj.GenerateResource.Cache
+D:\sdd\Dice\Dice\obj\Debug\Dice.csproj.CoreCompileInputs.cache
+D:\sdd\Dice\Dice\obj\Debug\Dice.exe
+D:\sdd\Dice\Dice\obj\Debug\Dice.pdb
+D:\sdd\Dice\Dice\obj\Debug\Dice.csprojAssemblyReference.cache
+E:\Yahtzee Game\Dice\Dice\Dice\bin\Debug\Dice.exe.config
+E:\Yahtzee Game\Dice\Dice\Dice\bin\Debug\Dice.exe
+E:\Yahtzee Game\Dice\Dice\Dice\bin\Debug\Dice.pdb
+E:\Yahtzee Game\Dice\Dice\Dice\obj\Debug\Dice.csprojAssemblyReference.cache
+E:\Yahtzee Game\Dice\Dice\Dice\obj\Debug\Dice.Form1.resources
+E:\Yahtzee Game\Dice\Dice\Dice\obj\Debug\Dice.Properties.Resources.resources
+E:\Yahtzee Game\Dice\Dice\Dice\obj\Debug\Dice.csproj.GenerateResource.cache
+E:\Yahtzee Game\Dice\Dice\Dice\obj\Debug\Dice.exe
+E:\Yahtzee Game\Dice\Dice\Dice\obj\Debug\Dice.pdb
+D:\Yahtzee Game\Dice\Dice\Dice\bin\Debug\Dice.exe.config
+D:\Yahtzee Game\Dice\Dice\Dice\bin\Debug\Dice.exe
+D:\Yahtzee Game\Dice\Dice\Dice\bin\Debug\Dice.pdb
+D:\Yahtzee Game\Dice\Dice\Dice\obj\Debug\Dice.csprojAssemblyReference.cache
+D:\Yahtzee Game\Dice\Dice\Dice\obj\Debug\Dice.Form1.resources
+D:\Yahtzee Game\Dice\Dice\Dice\obj\Debug\Dice.Properties.Resources.resources
+D:\Yahtzee Game\Dice\Dice\Dice\obj\Debug\Dice.csproj.GenerateResource.cache
+D:\Yahtzee Game\Dice\Dice\Dice\obj\Debug\Dice.exe
+D:\Yahtzee Game\Dice\Dice\Dice\obj\Debug\Dice.pdb
+D:\Yahtzee Game\Dice\Dice\Dice\obj\Debug\Dice.csproj.CoreCompileInputs.cache
+C:\Users\urvil\Desktop\Dice\Dice\Dice\Dice\bin\Debug\Dice.exe.config
+C:\Users\urvil\Desktop\Dice\Dice\Dice\Dice\bin\Debug\Dice.exe
+C:\Users\urvil\Desktop\Dice\Dice\Dice\Dice\bin\Debug\Dice.pdb
+C:\Users\urvil\Desktop\Dice\Dice\Dice\Dice\obj\Debug\Dice.csprojAssemblyReference.cache
+C:\Users\urvil\Desktop\Dice\Dice\Dice\Dice\obj\Debug\Dice.Form1.resources
+C:\Users\urvil\Desktop\Dice\Dice\Dice\Dice\obj\Debug\Dice.Properties.Resources.resources
+C:\Users\urvil\Desktop\Dice\Dice\Dice\Dice\obj\Debug\Dice.csproj.GenerateResource.cache
+C:\Users\urvil\Desktop\Dice\Dice\Dice\Dice\obj\Debug\Dice.csproj.CoreCompileInputs.cache
+C:\Users\urvil\Desktop\Dice\Dice\Dice\Dice\obj\Debug\Dice.exe
+C:\Users\urvil\Desktop\Dice\Dice\Dice\Dice\obj\Debug\Dice.pdb
